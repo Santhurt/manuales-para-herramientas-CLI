@@ -28,6 +28,8 @@
 
 Los comandos que se usan el 90% del tiempo.
 
+Comando: `sudo -u postgres psql`
+
 | Acción | Comando |
 |---|---|
 | Conectar | `psql -U usuario -d basededatos` |
